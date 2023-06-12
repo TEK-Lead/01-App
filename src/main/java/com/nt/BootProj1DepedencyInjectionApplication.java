@@ -72,6 +72,9 @@ import com.nt.beans.WishMessageGenerator;
 @SpringBootApplication
 public class BootProj1DepedencyInjectionApplication {
 
+int j =10;
+int k =20;
+
 //to cfg  pre-definded  java class  as spring use 
 // @Bean  method  definitation in  @Configuration  class.
 //                                 (alternate to spring bean  cfg  file(xml))
